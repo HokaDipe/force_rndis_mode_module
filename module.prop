@@ -1,0 +1,6 @@
+id=OppoTether
+name=Auto Oppo Tether
+version=v1
+versionCode=005
+author=Diep Khoa
+description=This module will always enable rndis mode on your phone. I tested on rooted Oppo find x2 pro (Color Os 13.1, Android 13)
