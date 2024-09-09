@@ -2,7 +2,7 @@
 
 ## Description
 - This Magisk module automatically enables USB tethering when your Oppo phone is connected to a computer via USB cable if defaulf rndis option in developer mode not working.
-- This module auto switch all usb mode except `**mtp**` to rndis, I tested on rooted Oppo find x2 pro.
+- This module auto switch all usb mode except `mtp` to rndis, I tested on rooted Oppo find x2 pro.
 - I just write this module for personal purpose, and I do not guide the steps to root oppo phone. Thanks
 ## Requirements
 - Rooted Oppo phone with Magisk installed (or Zygisk).
